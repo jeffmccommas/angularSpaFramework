@@ -11,5 +11,6 @@ angular.module("psFramework").directive("psFramework", function () {
 		controller: "psFrameworkController",
 		templateUrl: "ext-modules/psFramework/psFrameworkTemplate.html"
 
+
 	};
 });
